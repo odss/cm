@@ -1,0 +1,20 @@
+{
+  "name": "odss.cm",
+  "version": "1.0.0",
+  "description": "ODSS Config Manager",
+  "keywords": [
+    "www"
+  ],
+  "homepage": "",
+  "license": "MIT",
+  "author": "smialy",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/odss/cm"
+  },
+  "dependencies": {
+    "odss-api": "github:odss/api"
+  },
+  "main":"src/index.js"
+
+}
