@@ -1,0 +1,12 @@
+{
+    "esversion": 6,
+    "curly": true,
+    "eqeqeq": true,
+    "freeze": true,
+    "futurehostile": true,
+    "maxdepth":10,
+    "maxparams":5,
+    "maxstatements": 50,
+    "unused": true,
+    "varstmt": true
+}
