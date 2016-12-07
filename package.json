@@ -13,7 +13,7 @@
     "url": "http://github.com/odss/cm"
   },
   "dependencies": {
-    "odss-api": "github:odss/api"
+    "odss.api": "github:odss/api"
   },
   "main":"src/index.js"
 
