@@ -1,4 +1,4 @@
-import {IManagerService, ICommand} from 'odss-api';
+import {IManagerService, ICommand} from 'odss.api';
 
 let cmds = [{
     name: 'config:set',
